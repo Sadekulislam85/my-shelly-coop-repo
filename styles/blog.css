@@ -1,6 +1,9 @@
 h1{
     background-color: aqua;
 }
+h2{
+    background-color: aqua;
+}
 p{
     text-align: justify;
     
@@ -10,4 +13,5 @@ ul{
 }
 div{
     background-color: tomato;
+    margin-bottom: 10px;
 }
